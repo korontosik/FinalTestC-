@@ -1,0 +1,15 @@
+d:\Учеба\С\FInalTest\bin\Debug\net6.0\FInalTest.exe
+D:\Учеба\С\FInalTest\bin\Debug\net6.0\FInalTest.deps.json
+D:\Учеба\С\FInalTest\bin\Debug\net6.0\FInalTest.runtimeconfig.json
+d:\Учеба\С\FInalTest\bin\Debug\net6.0\FInalTest.dll
+d:\Учеба\С\FInalTest\bin\Debug\net6.0\FInalTest.pdb
+d:\Учеба\С\FInalTest\obj\Debug\net6.0\FInalTest.csproj.AssemblyReference.cache
+d:\Учеба\С\FInalTest\obj\Debug\net6.0\FInalTest.GeneratedMSBuildEditorConfig.editorconfig
+d:\Учеба\С\FInalTest\obj\Debug\net6.0\FInalTest.AssemblyInfoInputs.cache
+d:\Учеба\С\FInalTest\obj\Debug\net6.0\FInalTest.AssemblyInfo.cs
+d:\Учеба\С\FInalTest\obj\Debug\net6.0\FInalTest.csproj.CoreCompileInputs.cache
+d:\Учеба\С\FInalTest\obj\Debug\net6.0\FInalTest.dll
+d:\Учеба\С\FInalTest\obj\Debug\net6.0\refint\FInalTest.dll
+d:\Учеба\С\FInalTest\obj\Debug\net6.0\FInalTest.pdb
+D:\Учеба\С\FInalTest\obj\Debug\net6.0\FInalTest.genruntimeconfig.cache
+D:\Учеба\С\FInalTest\obj\Debug\net6.0\ref\FInalTest.dll
